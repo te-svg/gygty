@@ -1,0 +1,32 @@
+body{
+	 width: 500px;
+	 margin: auto;
+	 margin-top: 80px;
+	 background: rgb(238,174,202);
+     background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+	 padding: 10px;
+	 }
+button{
+	 border: 2px solid black;
+     padding: 10px;
+     border-radius: 20px;
+	 background: rgb(233,158,186);
+     background: linear-gradient(90deg, rgba(233,158,186,1) 0%, rgba(232,145,169,1) 48%, rgba(227,43,27,1) 100%);
+	 color: White;
+	 width: 450px;
+	 height: 35px;
+	 }
+form{
+	 background-color: White;
+	 border: solid black;
+	 padding: 20px;
+	 border-radius: 20px;
+	 } 
+div{
+     float: left;
+     padding-right: 50px;
+	 }
+div class="text2cols-item"{ 
+     float: right;
+	 }
+	
